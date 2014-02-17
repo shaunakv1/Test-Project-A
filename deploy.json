@@ -1,6 +1,8 @@
 {
+    "projectName": "Test Project A",
     "disable": false,
     "servers":["dev","qa","prod"],
+    
     "dev" : {
 		"projectroot" : "/home/ubuntu/deploy-test/",
 		"projectdir": "testA",
@@ -8,9 +10,11 @@
 		"deployEmail":true,
 		"emails":["shaunakv1@gmail.com"]
 	},
+	
 	"qa":{
 
 		},
+	
 	"prod":{
 		
 	}
