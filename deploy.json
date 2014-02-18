@@ -1,6 +1,6 @@
 {
     "projectName": "Test Project A",
-    "disable": true,
+    "disable": false,
     "stages":["dev","qa","prod"],
     
     "dev" : {
